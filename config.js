@@ -1,0 +1,1 @@
+window.BIRTHDAY_CONFIG = { apiUrl: '', title: 'Birthday Dinner', subtitle: 'Good food, good company, and a birthday celebration!', date: 'Date to be confirmed', time: 'Time to be confirmed', venue: 'Venue to be confirmed', address: '' };
